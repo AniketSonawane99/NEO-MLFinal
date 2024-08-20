@@ -11,6 +11,7 @@ Accuracy: 0.87
 ROC-AUC: 0.79
 
 Strengths: Simplicity, interpretability
+
 Weaknesses: May underperform on complex patterns in the data
 
 Random Forest:
@@ -19,6 +20,7 @@ Accuracy: 0.96
 ROC-AUC: 0.99
 
 Strengths: Handles complex patterns well, robust to overfitting
+
 Weaknesses: More computationally expensive, harder to interpret
 
 
